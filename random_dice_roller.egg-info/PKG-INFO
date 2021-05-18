@@ -1,0 +1,35 @@
+Metadata-Version: 1.1
+Name: random-dice-roller
+Version: 0.0.1
+Summary: A very 'easy to use' random dice roller
+Home-page: https://github.com/DevER-M/dice_roller
+Author: Dever
+Author-email: UNKNOWN
+License: MIT
+Description: This randomised dice roller uses the random module (which is pre-installed)
+        ways to use :
+        
+        
+        import random_dice_roller as rdr 
+        
+        rdr.roll_dice_visual()     # for visual dice and not in numbers 
+        print(rdr.roll_dice_any_number(minimum_number=1,maximum_number=100))  # for any numbers int 
+        print(rdr.roll_dice()) # to roll the normal dice(1 to 6) in a number format
+        
+        Change log
+        ==========
+        
+        0.0.1(18/5/2021)
+        ------------------
+        First Realease
+        
+        
+        
+        
+Keywords: Random dice roller
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Devlopers,Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

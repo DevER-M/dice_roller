@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+random_dice_roller/__init__.py
+random_dice_roller.egg-info/PKG-INFO
+random_dice_roller.egg-info/SOURCES.txt
+random_dice_roller.egg-info/dependency_links.txt
+random_dice_roller.egg-info/top_level.txt
