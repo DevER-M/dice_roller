@@ -1,0 +1,10 @@
+Change log
+==========
+
+0.0.2(19/5/2021)
+------------------
+
+Minor Function name Changes.
+
+
+
